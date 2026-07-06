@@ -1,48 +1,61 @@
-# The Founding Era
+# Founding Era
 
-**The Founding Era** is a prose-worldbuilding project set inside the larger **NOEME** universe.
-
-It is told through the final recollections of **Rutare Ventari**, a disgraced heir looking back on the history his family turned into myth. The project explores how civilization, legacy, gratitude, exploitation, and official history can be shaped into a beautiful lie.
-
-This repository is not meant to contain every draft. It is a curated portfolio layer: a readable entry point into the founding history behind NOEME.
-
----
-
-## Start Here
-
-1. [`00_Pitch.md`](00_Pitch.md) — what the project is and why it matters.
-2. [`01_Rutare_Ventari.md`](Prose/01_Rutare_Ventari.md) — opening prose sample.
-3. [`Case_Study.md`](Case_Study.md) — how the work demonstrates narrative design, worldbuilding, and controlled revelation.
-
----
-
-## What This Demonstrates
-
-- Turning world history into emotional testimony.
-- Using unreliable legacy as narrative pressure.
-- Building lore through confession instead of exposition.
-- Designing a prose layer that supports a larger IP ecosystem.
-- Revealing political and family history through shame, memory, and inherited myth.
-
----
-
-## Repository Structure
-
-```text
-README.md
-00_Pitch.md
-Case_Study.md
-Prose/
-  01_Rutare_Ventari.md
-Blueprints/
-  README.md
-Vault/
-  README.md
-```
-
----
+A trilogy of films exploring how wounds become legacies.
 
 ## Status
 
-This repo is currently a clean portfolio foundation. The goal is not to archive every fragment, but to present the strongest entry points clearly.
+**Work in Progress**
 
+The world is fully documented through the Bible and Narration Device. The pilot screenplay is in active development. Prose chapters are complete through Ilunis's wounding; the final two chapters — the second battle and Viriatus's visit — are in progress.
+
+## Concept
+
+**The Founding Era** is Rutare Ventari's written confession: a man trying to write his own innocence into the record, only to have the truth break through.
+
+## The Story
+
+House Ventari rises not through conquest, but through wounds — specifically, through what happens when a wound is never given language.
+
+Teresta refuses an arranged marriage and leaves. Her absence detonates consequences across years. Ilunis is crippled. Viriatus leaves to avenge him. Ecalus finally learns to love his adopted son, only to die before saying so publicly. Ilunis murders the brother he was supposed to honor.
+
+Ermerus takes control and builds Regulatus on the lie of what Viriatus's death meant — rewriting private murder as public nobility.
+
+Three films. Three complete emotional arcs. One causal chain of wounds that no one can heal.
+
+## Contents
+
+### [Bible](Founding_Era_Bible.md)
+
+The complete world: characters traced through experience → emotion → reason → behavior → atmosphere → history. Every decision is causally justified. No ambiguity.
+
+### [Narration Device](Founding_Era_Narration_Device.md)
+
+How Rutare's voice works across the trilogy: selective narration early, judging everyone but himself; flinching toward self-implication midway; finally breaking open in the finale. The device itself is the character arc.
+
+### Prose
+
+**Part One: Rutare's Confession**
+
+- Chapter Two: What Ecalus Had Been
+- Chapter Three: The Sentence I Gave Him
+- Additional chapters in development
+
+## Film Structure
+
+**Film 1 — The Wound**  
+Teresta's refusal → Augunar → Ilunis crippled → Viriatus leaves to avenge him.  
+Ends: false understanding, forward momentum.
+
+**Film 2 — The Rise & The Price**  
+Viriatus conquers Rome and reshapes it to Ecalus's vision. Ecalus finally loves him as a son. Then Viriatus learns he cannot father children. Ecalus dies.  
+Ends: triumph overlaid with the wound that ensures tragedy.
+
+**Film 3 — The Reckoning**  
+Viriatus is driven by spite. Ilunis acts. The murder happens. Rutare finally tells the truth. Regulatus is declared.  
+Final image: Rutare closing the book, forehead against it, tears falling into the hardcover.
+
+## Related Work
+
+This trilogy shares the same causal-chain worldbuilding methodology as the [Narrative Design Portfolio](https://github.com/VediRago/diogo-oliveira-narrative-design), applied to a second original property.
+
+© Diogo Oliveira — June 2026
