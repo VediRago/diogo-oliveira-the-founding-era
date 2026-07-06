@@ -1,34 +1,48 @@
 # Founding Era
 
-*A trilogy exploring how wounds become legacies.*
+*A trilogy of films exploring how wounds become legacies.*
 
 ---
 
 ## Overview
 
-**The Founding Era** is an original narrative design case study built to explore long-form causal storytelling.
+**The Founding Era** is an original narrative design project about how a family's private wound becomes public history.
 
-Rather than beginning with plot, the project begins with cause: how individual experiences shape emotion, how emotion becomes reasoning, how reasoning becomes behavior, and how those behaviors accumulate into history.
+House Ventari is a declining noble family. One day, a light falls from the sky, and the family finds a boy at the center of it. Rather than reveal what actually happened, the family patriarch hides the truth and raises the boy as a weapon: public myth, private secret.
 
-The trilogy follows **House Ventari**, a declining noble family whose attempt to protect a single secret gradually transforms it into the foundation of an empire.
+That boy is **Viriatus**.
 
-Every political decision, every relationship, and every tragedy originates from that single moment.
+The trilogy is framed through the written confession of **Rutare Ventari**, one of the patriarch's own children. Old, guilty, and running out of excuses, Rutare tries to record his family's history as if he were innocent in it.
+
+The more he writes, the more the truth breaks through his own sentences.
 
 ---
 
 ## Teaser Storyboard
 
-Before the first chapter begins, Rutare Ventari sits alone, attempting to record a truth his own family buried for generations.
+Rutare's confession is the gateway into the story.
 
-The storyboard captures his struggle through a sequence of still images: writing, hesitation, discarded pages, and finally the single name that history would rather forget.
+Before the first chapter begins, he sits alone with ink, candlelight, discarded pages, and the name history tried to bury. The storyboard captures the narration device visually: writing, hesitation, revision, guilt, and finally the single name that the whole myth is built around.
 
 <p align="center">
   <a href="https://github.com/VediRago/diogo-oliveira-the-founding-era/blob/main/assets/founding-era-storyboard.jpg">
-    <img src="assets/founding-era-storyboard-preview.svg" alt="The Founding Era Teaser Storyboard preview" width="100%">
+    <img src="assets/founding-era-storyboard.jpg" alt="Rutare Ventari writing his confession for The Founding Era" width="100%">
   </a>
 </p>
 
 [View full storyboard](https://github.com/VediRago/diogo-oliveira-the-founding-era/blob/main/assets/founding-era-storyboard.jpg)
+
+---
+
+## Core Premise
+
+This is not a story about destiny appearing fully formed.
+
+It is a story about construction.
+
+A family chooses what to hide. A child grows inside the lie. Gratitude becomes debt. Protection becomes control. Political myth becomes civilization. By the time the truth matters, too many people depend on the lie to survive it.
+
+The project uses long-form causal storytelling to track how individual experiences shape emotion, how emotion becomes reasoning, how reasoning becomes behavior, and how behavior hardens into history.
 
 ---
 
@@ -44,9 +58,9 @@ Characters, history, atmosphere, political structures, and causal relationships 
 
 ### [Narration Device](Founding_Era_Narration_Device.md)
 
-The complete design of Rutare Ventari's confession.
+The full design of Rutare Ventari's confession.
 
-The narration itself evolves alongside the character, becoming increasingly unreliable before ultimately collapsing into honesty.
+The narration is not neutral. It changes with Rutare. It begins as controlled history, becomes unreliable testimony, and eventually collapses into honesty.
 
 ---
 
@@ -54,7 +68,7 @@ The narration itself evolves alongside the character, becoming increasingly unre
 
 The trilogy's historical record written from inside the story.
 
-Each chapter represents both narrative and design validation, testing how the narration device behaves in practice.
+Each chapter functions as both prose and design validation, testing how the narration device behaves in practice.
 
 - [Chapter One: Rutare's Confession](Prose/Chapter_01_Rutares_Confession.md)
 - [Chapter Two: What Ecalus Had Been](Prose/Chapter_02_What_Ecalus_Had_Been.md)
@@ -103,6 +117,7 @@ This project explores:
 - Narrative reliability
 - Historical myth construction
 - Emotional cause-and-effect across generations
+- The transformation of private trauma into public legacy
 
 ---
 
