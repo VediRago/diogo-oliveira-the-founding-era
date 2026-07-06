@@ -1,4 +1,4 @@
-← [Back to Founding Era](../README.md) | ← [The Marriage That Became War](./Chapter_05_Marriage_That_Became_War.md) | [What I Saw Isn't What I See →](./Chapter_07_What_I_Saw_Isnt_What_I_See.md)
+← [Back to Founding Era](../README.md) | ← [The Marriage That Became War](./Chapter_05_Marriage_That_Became_War.md) | [What I See Isn't What I Saw →](./Chapter_07_What_I_See_Isnt_What_I_Saw.md)
 
 ---
 
@@ -62,4 +62,4 @@ A fool now.
 
 ---
 
-← [Back to Founding Era](../README.md) | ← [The Marriage That Became War](./Chapter_05_Marriage_That_Became_War.md) | [What I Saw Isn't What I See →](./Chapter_07_What_I_Saw_Isnt_What_I_See.md)
+← [Back to Founding Era](../README.md) | ← [The Marriage That Became War](./Chapter_05_Marriage_That_Became_War.md) | [What I See Isn't What I Saw →](./Chapter_07_What_I_See_Isnt_What_I_Saw.md)
