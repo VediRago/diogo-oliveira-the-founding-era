@@ -2,7 +2,7 @@
 
 ---
 
-# Chapter Seven: What I Saw Isn't What I See
+# Chapter Seven: What I See Isn't What I Saw
 
 It was dark. That is the first thing memory gives back to me.
 
