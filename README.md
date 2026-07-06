@@ -19,7 +19,7 @@ Before the first chapter begins, Rutare Ventari sits alone, attempting to record
 The storyboard captures his struggle through a sequence of still images: writing, hesitation, discarded pages, and finally the single name that history would rather forget.
 
 <p align="center">
-  <img src="assets/teaser-storyboard.jpg" alt="The Founding Era Teaser Storyboard" width="100%">
+  <img src="assets/founding-era-storyboard.jpg" alt="The Founding Era Teaser Storyboard" width="100%">
 </p>
 
 ## The Story
