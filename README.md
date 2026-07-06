@@ -36,9 +36,13 @@ How Rutare's voice works across the trilogy: selective narration early, judging 
 
 **Part One: Rutare's Confession**
 
-- Chapter Two: What Ecalus Had Been
-- Chapter Three: The Sentence I Gave Him
-- Additional chapters in development
+- [Chapter One: Rutare's Confession](Prose/Chapter_01_Rutares_Confession.md)
+- [Chapter Two: What Ecalus Had Been](Prose/Chapter_02_What_Ecalus_Had_Been.md)
+- [Chapter Three: The Sentence I Gave Him](Prose/Chapter_03_The_Sentence_I_Gave_Him.md)
+- [Chapter Four: What Came From the Sky](Prose/Chapter_04_What_Came_From_Sky.md)
+- [Chapter Five: The Marriage That Became War](Prose/Chapter_05_Marriage_That_Became_War.md)
+- [Chapter Six: The Mountain](Prose/Chapter_06_The_Mountain.md)
+- [Chapter Seven: What I Saw Isn't What I See](Prose/Chapter_07_What_I_Saw_Isnt_What_I_See.md)
 
 ## Film Structure
 
