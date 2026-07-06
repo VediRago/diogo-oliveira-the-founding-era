@@ -76,7 +76,7 @@ Each chapter functions as both prose and design validation, testing how the narr
 - [Chapter Four: What Came From the Sky](Prose/Chapter_04_What_Came_From_Sky.md)
 - [Chapter Five: The Marriage That Became War](Prose/Chapter_05_Marriage_That_Became_War.md)
 - [Chapter Six: The Mountain](Prose/Chapter_06_The_Mountain.md)
-- [Chapter Seven: What I Saw Isn't What I See](Prose/Chapter_07_What_I_Saw_Isnt_What_I_See.md)
+- [Chapter Seven: What I See Isn't What I Saw](Prose/Chapter_07_What_I_See_Isnt_What_I_Saw.md)
 
 ---
 
