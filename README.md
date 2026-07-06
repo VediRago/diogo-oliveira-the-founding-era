@@ -12,6 +12,16 @@ The world is fully documented through the Bible and Narration Device. The pilot 
 
 **The Founding Era** is Rutare Ventari's written confession: a man trying to write his own innocence into the record, only to have the truth break through.
 
+## Teaser Storyboard
+
+Before the first chapter begins, Rutare Ventari sits alone, attempting to record a truth his own family buried for generations.
+
+The storyboard captures his struggle through a sequence of still images: writing, hesitation, discarded pages, and finally the single name that history would rather forget.
+
+<p align="center">
+  <img src="assets/teaser-storyboard.jpg" alt="The Founding Era Teaser Storyboard" width="100%">
+</p>
+
 ## The Story
 
 House Ventari rises not through conquest, but through wounds — specifically, through what happens when a wound is never given language.
