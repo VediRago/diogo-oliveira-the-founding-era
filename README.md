@@ -6,10 +6,6 @@
 
 ## Overview
 
-<p align="center">
-  <img src="assets/founding-era-storyboard.jpg" alt="The Founding Era" width="100%">
-</p>
-
 **The Founding Era** is an original narrative design case study built to explore long-form causal storytelling.
 
 Rather than beginning with plot, the project begins with cause: how individual experiences shape emotion, how emotion becomes reasoning, how reasoning becomes behavior, and how those behaviors accumulate into history.
@@ -17,6 +13,18 @@ Rather than beginning with plot, the project begins with cause: how individual e
 The trilogy follows **House Ventari**, a declining noble family whose attempt to protect a single secret gradually transforms it into the foundation of an empire.
 
 Every political decision, every relationship, and every tragedy originates from that single moment.
+
+---
+
+## Teaser Storyboard
+
+Before the first chapter begins, Rutare Ventari sits alone, attempting to record a truth his own family buried for generations.
+
+The storyboard captures his struggle through a sequence of still images: writing, hesitation, discarded pages, and finally the single name that history would rather forget.
+
+<p align="center">
+  <img src="assets/founding-era-storyboard.jpg" alt="The Founding Era Teaser Storyboard" width="100%">
+</p>
 
 ---
 
