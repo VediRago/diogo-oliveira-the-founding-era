@@ -1,50 +1,48 @@
 # Founding Era
 
-A trilogy of films exploring how wounds become legacies.
+*A trilogy exploring how wounds become legacies.*
 
-## Status
+---
 
-**Work in Progress**
-
-The world is fully documented through the Bible and Narration Device. The pilot screenplay is in active development. Prose chapters are complete through Ilunis's wounding; the final two chapters — the second battle and Viriatus's visit — are in progress.
-
-## Concept
-
-**The Founding Era** is Rutare Ventari's written confession: a man trying to write his own innocence into the record, only to have the truth break through.
-
-## Teaser Storyboard
-
-Before the first chapter begins, Rutare Ventari sits alone, attempting to record a truth his own family buried for generations.
-
-The storyboard captures his struggle through a sequence of still images: writing, hesitation, discarded pages, and finally the single name that history would rather forget.
+## Overview
 
 <p align="center">
-  <img src="assets/founding-era-storyboard.jpg" alt="The Founding Era Teaser Storyboard" width="100%">
+  <img src="assets/founding-era-storyboard.jpg" alt="The Founding Era" width="100%">
 </p>
 
-## The Story
+**The Founding Era** is an original narrative design case study built to explore long-form causal storytelling.
 
-House Ventari rises not through conquest, but through wounds — specifically, through what happens when a wound is never given language.
+Rather than beginning with plot, the project begins with cause: how individual experiences shape emotion, how emotion becomes reasoning, how reasoning becomes behavior, and how those behaviors accumulate into history.
 
-Teresta refuses an arranged marriage and leaves. Her absence detonates consequences across years. Ilunis is crippled. Viriatus leaves to avenge him. Ecalus finally learns to love his adopted son, only to die before saying so publicly. Ilunis murders the brother he was supposed to honor.
+The trilogy follows **House Ventari**, a declining noble family whose attempt to protect a single secret gradually transforms it into the foundation of an empire.
 
-Ermerus takes control and builds Regulatus on the lie of what Viriatus's death meant — rewriting private murder as public nobility.
+Every political decision, every relationship, and every tragedy originates from that single moment.
 
-Three films. Three complete emotional arcs. One causal chain of wounds that no one can heal.
+---
 
-## Contents
+## Repository Structure
 
 ### [Bible](Founding_Era_Bible.md)
 
-The complete world: characters traced through experience → emotion → reason → behavior → atmosphere → history. Every decision is causally justified. No ambiguity.
+The complete worldbuilding documentation.
+
+Characters, history, atmosphere, political structures, and causal relationships that govern the trilogy.
+
+---
 
 ### [Narration Device](Founding_Era_Narration_Device.md)
 
-How Rutare's voice works across the trilogy: selective narration early, judging everyone but himself; flinching toward self-implication midway; finally breaking open in the finale. The device itself is the character arc.
+The complete design of Rutare Ventari's confession.
 
-### Prose
+The narration itself evolves alongside the character, becoming increasingly unreliable before ultimately collapsing into honesty.
 
-**Part One: Rutare's Confession**
+---
+
+### Rutare's Confession
+
+The trilogy's historical record written from inside the story.
+
+Each chapter represents both narrative and design validation, testing how the narration device behaves in practice.
 
 - [Chapter One: Rutare's Confession](Prose/Chapter_01_Rutares_Confession.md)
 - [Chapter Two: What Ecalus Had Been](Prose/Chapter_02_What_Ecalus_Had_Been.md)
@@ -54,22 +52,63 @@ How Rutare's voice works across the trilogy: selective narration early, judging 
 - [Chapter Six: The Mountain](Prose/Chapter_06_The_Mountain.md)
 - [Chapter Seven: What I Saw Isn't What I See](Prose/Chapter_07_What_I_Saw_Isnt_What_I_See.md)
 
-## Film Structure
+---
 
-**Film 1 — The Wound**  
-Teresta's refusal → Augunar → Ilunis crippled → Viriatus leaves to avenge him.  
-Ends: false understanding, forward momentum.
+## Trilogy Structure
 
-**Film 2 — The Rise & The Price**  
-Viriatus conquers Rome and reshapes it to Ecalus's vision. Ecalus finally loves him as a son. Then Viriatus learns he cannot father children. Ecalus dies.  
-Ends: triumph overlaid with the wound that ensures tragedy.
+### Film I — The Wound
 
-**Film 3 — The Reckoning**  
-Viriatus is driven by spite. Ilunis acts. The murder happens. Rutare finally tells the truth. Regulatus is declared.  
-Final image: Rutare closing the book, forehead against it, tears falling into the hardcover.
+A family chooses myth over truth.
+
+One decision becomes the origin of every tragedy that follows.
+
+---
+
+### Film II — The Rise & The Price
+
+The empire reaches its greatest triumph while the family's private wounds deepen beyond repair.
+
+---
+
+### Film III — The Reckoning
+
+History finally catches the lie that created it.
+
+The confession reaches its end.
+
+The empire survives.
+
+The family does not.
+
+---
+
+## Design Focus
+
+This project explores:
+
+- Long-form causal storytelling
+- Character-driven worldbuilding
+- Narrative reliability
+- Historical myth construction
+- Emotional cause-and-effect across generations
+
+---
+
+## Current Status
+
+**Work in Progress**
+
+- World Bible complete
+- Narration Device complete
+- Prose adaptation in progress
+- Screenplay development ongoing
+
+---
 
 ## Related Work
 
-This trilogy shares the same causal-chain worldbuilding methodology as the [Narrative Design Portfolio](https://github.com/VediRago/diogo-oliveira-narrative-design), applied to a second original property.
+The Founding Era demonstrates the narrative methodologies documented in the [Narrative Design Portfolio](https://github.com/VediRago/diogo-oliveira-narrative-design), applying them to a complete original property from worldbuilding through screenplay development.
+
+---
 
 © Diogo Oliveira — June 2026
