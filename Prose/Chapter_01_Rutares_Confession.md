@@ -1,4 +1,4 @@
-← [Back to Founding Era](./README.md) | [Chapter Two →](./Chapter_02_What_Ecalus_Had_Been.md)
+← [Back to Founding Era](../README.md) | [What Ecalus Had Been →](./Chapter_02_What_Ecalus_Had_Been.md)
 
 ---
 
@@ -20,4 +20,4 @@ Viriatus.
 
 ---
 
-← [Back to Founding Era](./README.md) | [Chapter Two →](./Chapter_02_What_Ecalus_Had_Been.md)
+← [Back to Founding Era](../README.md) | [What Ecalus Had Been →](./Chapter_02_What_Ecalus_Had_Been.md)
